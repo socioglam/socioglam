@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=socioglam&label=Profile%20views&color=0e75b6&style=flat" alt="socioglam" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=socioglam" alt="socioglam" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=socioglam" alt="socioglam" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/socioglamm73069" target="blank"><img src="https://img.shields.io/twitter/follow/socioglamm73069?logo=twitter&style=for-the-badge" alt="socioglamm73069" /></a> </p>
 

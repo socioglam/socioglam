@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Sales Socioglamm</h1>
 <h3 align="center">Developer & SEO Specialist passionate about building automated workflows, AI-driven systems, and scalable web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=socioglam&label=Profile%20views&color=0e75b6&style=flat" alt="socioglam" /> </p>
